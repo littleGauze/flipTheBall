@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.3",
+  "name": "ballGame",
+  "uuid": "bdb240f7-7df4-4efd-84d7-ac08f9a236f7",
+  "id": "957a8837-4479-42ef-830c-5b02b3d331f9",
+  "isNew": false
+}
